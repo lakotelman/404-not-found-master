@@ -22,7 +22,7 @@
 
 ## Overview
 
-<iframe src="https://drive.google.com/file/d/1hkPwDCfEEswwCrjTw7p8rMFJF8TyUCPW/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 This was the first challenge I completed with devChallenge.io. After working with Figma for the last two weeks, I really needed to get back into the swing with actually working with CSS.
 
