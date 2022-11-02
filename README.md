@@ -22,7 +22,7 @@
 
 ## Overview
 
-![screenshot](https://drive.google.com/file/d/1hkPwDCfEEswwCrjTw7p8rMFJF8TyUCPW/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1hkPwDCfEEswwCrjTw7p8rMFJF8TyUCPW/preview" width="640" height="480" allow="autoplay"></iframe>
 
 This was the first challenge I completed with devChallenge.io. After working with Figma for the last two weeks, I really needed to get back into the swing with actually working with CSS.
 
@@ -40,6 +40,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://lauraashlee.art/developer)
-- GitHub [@your-username](https://{github.com/lakotelman)
-- Twitter [@your-twitter](https://{twitter.com/lakotelman)
+- Website [lauraashlee.art](https://lauraashlee.art/developer)
+- GitHub [@lakotelman](https://{github.com/lakotelman)
+- Twitter [@lakotelman](https://{twitter.com/lakotelman)
